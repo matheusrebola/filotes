@@ -1,4 +1,4 @@
-package br.org.diversao.filotes.entities;
+package filotes.entities;
 
 import jakarta.persistence.Entity;
 

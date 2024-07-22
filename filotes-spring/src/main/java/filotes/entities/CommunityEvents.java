@@ -1,4 +1,4 @@
-package br.org.diversao.filotes.entities;
+package filotes.entities;
 
 import java.time.LocalDateTime;
 import java.util.UUID;

@@ -1,4 +1,4 @@
-package br.org.diversao.filotes;
+package filotes;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
