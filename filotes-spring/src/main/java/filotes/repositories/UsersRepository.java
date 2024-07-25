@@ -1,13 +1,13 @@
-package filotes.repository;
+package filotes.repositories;
 
 import java.util.UUID;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import filotes.entities.ForumTopics;
+import filotes.entities.Users;
 
 @Repository
-public interface ForumTopicsRepository extends JpaRepository<ForumTopics, UUID> {
+public interface UsersRepository extends JpaRepository<Users, UUID>{
 
 }

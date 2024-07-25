@@ -1,4 +1,4 @@
-package filotes.repository;
+package filotes.repositories;
 
 import java.util.UUID;
 
